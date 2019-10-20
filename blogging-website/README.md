@@ -6,7 +6,7 @@ This web-app is made using Nodejs, HTML, CSS and some other javascript libraries
 
 The functionalities of this website are - 
 
-(https://github.com/AgrawalAnsh22/WebProjects/blob/master/blogging-website/Blogging-website_Home.png)
+![Screenshot](https://github.com/AgrawalAnsh22/WebProjects/blob/master/blogging-website/Blogging-website_Home.png)
 
 ![Screenshot of the daily journal website](https://github.com/AgrawalAnsh22/WebProjects/blob/master/blogging-website/Blogging-website_Contact_Us.png)
 
@@ -18,4 +18,4 @@ The functionalities of this website are -
 
 * Individual posts can be viewed in a new window. I have used the concept of layering to implement this.
 
-![Screenshot of the separate posts page](url)
+![Screenshot of the separate posts page](https://github.com/AgrawalAnsh22/WebProjects/blob/master/blogging-website/NewBlog.png)
