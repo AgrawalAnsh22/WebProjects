@@ -3,10 +3,17 @@ body {
   background-color: #011F3F;
 }
 
+#game-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2.5rem;
+  margin:  4%;
+  color: #00a5a5;
+}
+
 #level-title {
   font-family: 'Press Start 2P', cursive;
-  font-size: 3rem;
-  margin:  5%;
+  font-size: 2rem;
+  margin:  2%;
   color: #FEF2BF;
 }
 
@@ -20,9 +27,9 @@ body {
 .btn {
   margin: 25px;
   display: inline-block;
-  height: 200px;
-  width: 200px;
-  border: 10px solid black;
+  height: 170px;
+  width: 170px;
+  border: 8px solid black;
   border-radius: 20%;
 }
 
@@ -50,4 +57,13 @@ body {
 .pressed {
   box-shadow: 0 0 20px white;
   background-color: grey;
+}
+
+footer {
+  margin-top: 2%;
+  margin-bottom: 0.5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
 }

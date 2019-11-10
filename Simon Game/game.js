@@ -5,10 +5,19 @@ var level =0;
 var started=false;
 
 $(document).keypress(function(){
-  if(!started)
+  if(!started){
   $("#level-title").text("Level "+level);
   nextSequence();
   started=true;
+}
+});
+
+$(document).click(function(){
+  if(!started){
+  $("#level-title").text("Level "+level);
+  nextSequence();
+  started=true;
+}
 });
 
 function nextSequence(){
